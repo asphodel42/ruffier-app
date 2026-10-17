@@ -1,0 +1,11 @@
+venv/
+env/
+.venv/
+.env/
+
+__pycache__/
+.vscode/
+
+bin/
+build/
+dist/
